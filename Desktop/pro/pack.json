@@ -1,0 +1,13 @@
+{
+  "name": "pro",
+  "version": "1.0.0",
+  "description": "College Node.js Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Mahi",
+  "license": "ISC",
+  "type": "commonjs"
+}
